@@ -10,4 +10,4 @@
 * Criação de Métodos
 * Integrção com backend usando Axios
 * Foi usado a biblioteca JSON-SERVER para usar de banco local
-* Foi feito o deploy da aplicação
+* Foi feito o deploy da aplicação na VERCEL e na RENDER
