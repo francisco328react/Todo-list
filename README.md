@@ -1,4 +1,4 @@
-# Projeto React - JavaScript
+# Projeto Todo-List (REact- - JavaScript)
 
 - Objetivo desse porjeto foi botar em pratica os conceitos básicos da bilbioteca, aonde aplico:
 * Variveis de State
@@ -7,7 +7,7 @@
 * Propriedades
 * Desestruturação
 * React-Router-DOM
-* Criação de Métodos
+* Criação de Services
 * Integrção com backend usando Axios
 * Foi usado a biblioteca JSON-SERVER para usar de banco local
-* Foi feito o deploy da aplicação na VERCEL e na RENDER
+* Foi feito o deploy da aplicação
