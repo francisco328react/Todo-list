@@ -12,15 +12,15 @@
 * Foi usado a biblioteca JSON-SERVER para usar de banco local
 * Foi feito o deploy da aplicação
 
-# Para rodar o projeto na sua máquina
+# Para ter o projeto na sua máquina
 
-1 - Fazer o download do projeto ou clonar
-2 - Abrir o projeto no VSCode
-3 - Abrir o terminal e rodar o comando (npm i)
+- Fazer o download do projeto ou clonar
+- Abrir o projeto no VSCode
+- Abrir o terminal e rodar o comando (npm i)
 
 # Para rodar o projeto local
 
-- Rodar Front-end
+- Rodar Front-end <br>
 1 - npm run dev
-- Rodar Back-end
+- Rodar Back-end <br>
 2 - npm run server
