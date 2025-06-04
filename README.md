@@ -1,4 +1,4 @@
-# Projeto Todo-List (REact- - JavaScript)
+# Projeto Todo-List (React - JavaScript)
 
 - Objetivo desse porjeto foi botar em pratica os conceitos básicos da bilbioteca, aonde aplico:
 * Variveis de State
